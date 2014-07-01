@@ -1,5 +1,6 @@
 MyPrivate
 =========
+1.有限状态机，存放在Unity3dTool/FSM下面
 按照http://wiki.unity3d.com/index.php/Finite_State_Machine 编写的适合于
 
 unity3d的有限状态机，相较于维基百科的内容作了很小的改动，主要是添加了一个
